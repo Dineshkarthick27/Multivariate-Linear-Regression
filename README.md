@@ -23,6 +23,7 @@ Create the linearRegression model and predict the output
 ## Program:
 #Developed by :- Dinesh Karthick.K.J
 #Register number:- 22005847
+'''
 import pandas as pd
 from sklearn import linear_model
 
@@ -35,6 +36,7 @@ print("Cofficients: ",regr.coef_)
 print("Intercept: ",regr.intercept_)
 predictedCO2 = regr.predict([[3300,1300]])
 print('Predicted co2 for the corresponding weight and volume',predictedCO2)
+'''
 ## Output:
 
 ### Insert your output
