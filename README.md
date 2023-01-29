@@ -23,7 +23,7 @@ Create the linearRegression model and predict the output
 ## Program:
 #Developed by :- Dinesh Karthick.K.J
 #Register number:- 22005847
-'''
+'''Python
 import pandas as pd
 from sklearn import linear_model
 
